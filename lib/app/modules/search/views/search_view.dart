@@ -152,7 +152,7 @@ class _SearchState extends State<Search> {
             ),
             10.verticalSpace,
             ListView.builder(
-              physics: ScrollPhysics(),
+              physics: const ScrollPhysics(),
               shrinkWrap: true,
               itemCount: searchResult.length,
               itemBuilder: (context, index) {

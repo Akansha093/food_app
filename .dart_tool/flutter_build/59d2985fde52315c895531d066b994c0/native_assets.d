@@ -1,0 +1,1 @@
+ /Users/iquanta/Desktop/newApp/food_app/.dart_tool/flutter_build/59d2985fde52315c895531d066b994c0/native_assets.yaml: 
