@@ -1,0 +1,12 @@
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-java-1.0.0-beta04-0 /Users/iquanta/.gradle/caches/transforms-3/24353df519e453302cef6a21155bdef2/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-1.0.0-beta04-1 /Users/iquanta/.gradle/caches/transforms-3/27bcc23e8be7da14f9349dc11b4ddb28/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-annotation-experimental-1.1.0-2 /Users/iquanta/.gradle/caches/transforms-3/bbe30824ac73ac45d9c45af8c186fa0f/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.pathprovider.path_provider_android-core-1.6.0-3 /Users/iquanta/.gradle/caches/transforms-3/f09cae9c20b55d68610e47ece2be7559/transformed/core-1.6.0/res
+io.flutter.plugins.pathprovider.path_provider_android-main-4 /Users/iquanta/.pub-cache/hosted/pub.dev/path_provider_android-2.2.1/android/src/main/res
+io.flutter.plugins.pathprovider.path_provider_android-release-5 /Users/iquanta/.pub-cache/hosted/pub.dev/path_provider_android-2.2.1/android/src/release/res
+io.flutter.plugins.pathprovider.path_provider_android-pngs-6 /Users/iquanta/Downloads/personal/E-commerce_clean_architecture/build/path_provider_android/generated/res/pngs/release
+io.flutter.plugins.pathprovider.path_provider_android-resValues-7 /Users/iquanta/Downloads/personal/E-commerce_clean_architecture/build/path_provider_android/generated/res/resValues/release
+io.flutter.plugins.pathprovider.path_provider_android-rs-8 /Users/iquanta/Downloads/personal/E-commerce_clean_architecture/build/path_provider_android/generated/res/rs/release
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-9 /Users/iquanta/Downloads/personal/E-commerce_clean_architecture/build/path_provider_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.pathprovider.path_provider_android-mergeReleaseResources-10 /Users/iquanta/Downloads/personal/E-commerce_clean_architecture/build/path_provider_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.pathprovider.path_provider_android-merged_res-11 /Users/iquanta/Downloads/personal/E-commerce_clean_architecture/build/path_provider_android/intermediates/merged_res/release
